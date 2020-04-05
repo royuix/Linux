@@ -1,0 +1,27 @@
+apt install telegram-desktop riot-web anydesk jitsi-meet-web spotify-client aria2 curl inkscape gimp vlc smplayer mpv smplayer-themes darktable rawtherapee obs-studio audacity blender -y
+
+sudo add-apt-repository ppa:daniruiz/flat-remix -y
+
+
+sudo apt install flat-remix flat-remix-gtk flat-remix-gnome -y
+
+apt install gnome-tweak-tool -y
+
+apt install telegram-desktop riot-web anydesk spotify-client aria2 curl inkscape gimp vlc smplayer mpv smplayer-themes darktable rawtherapee obs-studio audacity blender keepassxc numlockx spectre-meltdown-checker inxi hwinfo testdisk pv exfat-fuse exfat-utils cowsay fortune-mod conky hddtemp hdparm smartmontools gparted arj lzip lzop ncompress rzip sharutils unace unar p7zip htop neofetch speedtest-cli android-tools-adb android-tools-fastboot persepolis qbittorrent stellarium wireshark qalculate-gtk hexchat aisleriot gnome-chess gnome-mines gnome-mahjongg gnome-sudoku build-essential gnome-tweaks gnome-shell-extensions numix-blue-gtk-theme numix-icon-theme-circle -y
+
+
+apt install telegram-desktop riot-web anydesk spotify-client aria2 curl inkscape gimp vlc smplayer mpv smplayer-themes darktable rawtherapee obs-studio audacity blender keepassxc numlockx spectre-meltdown-checker inxi hwinfo testdisk pv exfat-fuse exfat-utils cowsay fortune-mod conky hddtemp hdparm smartmontools gparted arj lzip lzop ncompress rzip sharutils unace unar p7zip htop neofetch speedtest-cli android-tools-adb android-tools-fastboot persepolis qbittorrent stellarium wireshark qalculate-gtk hexchat aisleriot gnome-chess gnome-mines gnome-mahjongg gnome-sudoku build-essential gnome-tweaks gnome-shell-extensions numix-blue-gtk-theme numix-icon-theme-circle -y
+
+
+gsettings set org.gnome.shell.extensions.user-theme name "Flat-Remix-Dark"
+
+
+gsettings set org.gnome.desktop.interface gtk-theme "Flat-Remix-GTK-Blue-Dark"
+
+apt install signal-desktop tilix  zsh  git
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+nano /etc/bash.bashrc
+
+
